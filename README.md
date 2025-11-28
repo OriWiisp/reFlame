@@ -2,20 +2,26 @@
 
 ![Homescreen screenshot](.github/home.png)
 
-## Description
 
-reFlame is self-hosted homelab dashboard which is a fork of Flame. reFlame is best described as a complete re-build of the original providing support for new systems, more customization and, more ways to deploy.
 
-## Functionality
-- 📝 Create, update, delete your applications and bookmarks directly from the app using built-in GUI editors
-- 📌 Pin your favourite items to the homescreen for quick and easy access
-- 🔍 Integrated search bar with local filtering, 11 web search providers and ability to add your own
-- 🔑 Authentication system to protect your settings, apps and bookmarks
-- 🔨 Dozens of options to customize Flame interface to your needs, including support for custom CSS, 15 built-in color themes and custom theme builder
-- ☀️ Weather widget with current temperature, cloud coverage and animated weather status
-- 🐳 Docker integration to automatically pick and add apps based on their labels
+## reFlame 1.0.0 (BETA)
 
-## Installation
+We are happy to announce that the first ever release of reFlame will soon be made availible to the public in the coming weeks. Together with your support we have been able to completly rework the Flame experience and yet still keep the components that you know and love with a all new user interface which makes management easier than ever with direct intergation with the following services to provide you with real-time metrics:
+
+- Grafana
+- Pi-hole
+- What's up Docker
+- Plex
+- Jellyfin
+- Servarr
+
+## reFlame Legacy 
+
+We will be continuing to provide support for all previous versions of Flame under the name reFlame Legacy however, please note that reFlame Legacy will not give you access to features of reFlame and for that we do suggest trying out reFlame before choosing reFlame Legacy 
+ 
+
+
+## Installation (reFlame Legacy) 
 
 ### With Docker (recommended)
 
